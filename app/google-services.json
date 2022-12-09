@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210742784551",
+    "project_id": "kokoflowerproyecto",
+    "storage_bucket": "kokoflowerproyecto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210742784551:android:7cb2c96e8375e75e969402",
+        "android_client_info": {
+          "package_name": "com.example.kokoflower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210742784551-hbh5c975901up7lebgp709nj89nuefa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsXqpJ1S6MODrJfe4jxprBgEYty0IqSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210742784551-hbh5c975901up7lebgp709nj89nuefa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
